@@ -34,7 +34,7 @@ Ale to nie wszystko! Cały projekt powstał z pomocą **Cursor AI** - rewolucyjn
     
 * 📚 **Tłumaczy dokumentację** i wyjaśnia skomplikowane fragmenty
     
-* ⚡ **Przyspiesza development** nawet o 300%
+* ⚡ **Przyspiesza development**
     
 
 ### Jak to działa w praktyce?
@@ -51,7 +51,7 @@ To jest **vibe coding** - programowanie przez konwersację z AI!
 
 ## 💡 Geneza pomysłu
 
-Wszystko zaczęło się od frustracji. Pracując z bazami danych, ciągle musiałem:
+Wszystko zaczęło się jak zwykle od frustracji. Pracując z bazami danych, ciągle musiałem:
 
 * Pamiętać nazwy tabel i kolumn
     
@@ -375,7 +375,7 @@ def test_join_query():
 
 ### Jak zmienia się rola programisty:
 
-**Wcześniej**: Programista = Pisarz kodu **Teraz**: Programista = Architekt rozwiązań + AI Whisperer
+**Wcześniej**: Programista = Pisarz kodu **Teraz**: Programista = Architekt rozwiązań + AI
 
 ### Nowe umiejętności programisty AI:
 
@@ -455,7 +455,7 @@ Projekt to dopiero początek! W planach:
 
 ### Przyszłość już jest tutaj:
 
-* 🤖 **AI Pair Programming** - standard w 2025
+* 🤖 **AI Pair Programming**
     
 * 🗣️ **Voice Coding** - programowanie głosem
     
@@ -477,13 +477,11 @@ Stworzenie SQL LLM Assistant z pomocą Cursor AI było fascynującą podróżą,
 
 ### Kluczowe wnioski:
 
-* 🚀 **AI przyspiesza development o 300%**
+* 🚀 **AI przyspiesza development**
     
 * 🎯 **Programista staje się architektem rozwiązań**
     
 * 💡 **Vibe Coding to naturalna ewolucja programowania**
-    
-* 🤖 **AI jest najlepszym mentorem i współpracownikiem**
     
 
 ### Czy warto zacząć używać AI w programowaniu?
