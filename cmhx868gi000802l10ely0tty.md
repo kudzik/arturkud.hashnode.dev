@@ -45,6 +45,34 @@ Nasz system będzie wykorzystywał trzy kluczowe wzorce:
 
 ---
 
+## Repozytorium
+
+Kod źródłowy i historia projektu są dostępne na GitHub:
+
+[kudzik/ai-agents-orkiestracja](https://github.com/kudzik/ai-agents-orkiestracja)
+
+Klonowanie i szybkie uruchomienie projektu lokalnie:
+
+```bash
+# Klonowanie repozytorium
+git clone https://github.com/kudzik/ai-agents-orkiestracja.git
+cd ai-agents-orkiestracja
+
+# (opcjonalnie) utwórz i aktywuj venv
+python -m venv venv
+# Windows PowerShell
+.\venv\Scripts\Activate.ps1
+# macOS / Linux
+source venv/bin/activate
+
+# Zainstaluj zależności z requirements.txt
+pip install -r requirements.txt
+```
+
+Uwaga: jeśli Twój system używa `pip3`, zastąp `pip` przez `pip3`.
+
+---
+
 ## 3\. Instrukcja Krok Po Kroku: Budowa Orkiestratora
 
 Aby ułatwić zarządzanie wieloma modelami, użyjemy **OpenRouter** – agregatora API, który pozwala wywoływać różne modele za pomocą **jednego, ujednoliconego klienta** `openai`.
@@ -82,8 +110,15 @@ Po aktywacji powinieneś zobaczyć `(venv)` na początku linii wiersza poleceń.
 Po aktywacji venv, zainstaluj wymagane pakiety:
 
 ```bash
-# Instalacja wymaganych pakietów
+# Instalacja wymaganych pakietów (pojedyncze pakiety)
 pip install openai python-dotenv
+```
+
+Alternatywnie (wygodniej podczas pracy nad projektem) zainstaluj wszystkie zależności z pliku `requirements.txt`:
+
+```bash
+# Instalacja wszystkich zależności z requirements.txt
+pip install -r requirements.txt
 ```
 
 #### Konfiguracja Klucza API
@@ -215,3 +250,5 @@ except json.JSONDecodeError:
 ## 💡 Podsumowanie: Dlaczego to jest kluczowe?
 
 Zdolność do orkiestracji modeli to nie tylko zabawa – to klucz do **zwiększonej solidności** i **masowej optymalizacji kosztów** w produkcji. Dzięki temu możesz świadomie routować zadania, zapewniając najlepszy wynik, przy jednoczesnym kontrolowaniu budżetu.
+
+---
