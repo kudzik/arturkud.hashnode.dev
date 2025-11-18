@@ -1,10 +1,11 @@
 ---
-title: "CrewAI dla Początkujących: Jak Zbudować Zespół AI Agentów w 10 Minut (Prawie) 🚀"
+title: "CrewAI Część 1: CrewAI dla Początkujących: Jak Zbudować Zespół AI Agentów w 10 Minut (Prawie) 🚀"
 seoTitle: "Zbuduj Zespół AI Agentów w 10 Minut"
 seoDescription: "Dowiedz się, jak szybko stworzyć zespół AI z agentami za pomocą CrewAI, ucz się podstaw i rozpocznij własne projekty"
 datePublished: Tue Nov 18 2025 16:27:39 GMT+0000 (Coordinated Universal Time)
 cuid: cmi4sefeb000102jyaoos9271
-slug: crewai-dla-poczatkujacych-jak-zbudowac-zespol-ai-agentow-w-10-minut-prawie
+slug: crewai-czesc-1-crewai-dla-poczatkujacych-jak-zbudowac-zespol-ai-agentow-w-10-minut-prawie
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CHVTt0aGbx0/upload/3f295224009601e41f8afcc276b08a00.jpeg
 tags: ai, crewai, agentic-ai
 
 ---
@@ -622,6 +623,25 @@ Gratulacje! Masz już podstawową wiedzę o CrewAI. Co możesz zrobić dalej?
 * [Discord społeczności](https://discord.com/invite/X4JWnZnxPb)
     
 
+### 4\. Zapoznaj się z drugą częścią poradnika.
+
+👉 [Daj swoim agentom supermoce – narzędzia i kontekst](https://arturkud.hashnode.dev/crewai-czesc-2-daj-swoim-agentom-supermoce-narzedzia-i-kontekst)
+
+Jeśli w pierwszej części poznałeś podstawy budowania zespołu agentów, to teraz czas na **kolejny krok – nadanie im supermocy!** 💡
+
+W drugiej części serii odkryjesz:
+
+* 🔧 **Narzędzia** – jak wyposażyć agentów w wyszukiwarki, kalkulatory czy dostęp do plików, aby stali się naprawdę użyteczni.
+    
+* 🔗 **Kontekst** – czyli jak automatycznie przekazywać wyniki między zadaniami, aby agenci współpracowali jak profesjonalny zespół badawczy.
+    
+* 📊 **Praktyczny projekt** – krok po kroku zbudujesz zespół badaczy finansowych, który wyszukuje dane, analizuje je i tworzy raporty.
+    
+* ⚡ **Tipy i pułapki** – jak uniknąć najczęstszych błędów i zoptymalizować pracę agentów.
+    
+
+To nie jest tylko teoria – to **praktyczny przewodnik**, który pokazuje, jak w kilka minut stworzyć agentów zdolnych do realnej współpracy i analizy danych.
+
 ---
 
 ## Podsumowanie: Co Wiesz Teraz? 📚
@@ -637,7 +657,7 @@ Gratulacje! Masz już podstawową wiedzę o CrewAI. Co możesz zrobić dalej?
 
 ---
 
-## Ostatnie Słowo (I Trochę Humoru) 😄
+## Ostatnie Słowo
 
 Pamiętaj: CrewAI to narzędzie, nie magiczna różdżka. Agenty AI są mądre, ale nie doskonałe. Czasem będą robić głupie rzeczy (jak prawdziwi pracownicy! 😅).
 
