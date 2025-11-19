@@ -5,6 +5,7 @@ seoDescription: "Odkryj, jak ustrukturyzowane wyjścia i zaawansowane techniki p
 datePublished: Wed Nov 19 2025 20:36:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmi6gqgzj000002ju7rse2on7
 slug: crewai-czesc-3-od-chaosu-do-porzadku-jak-ustrukturyzowane-wyjscia-oraz-pamie
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_0iV9LmPDn0/upload/334bfaf794f5d159d097c8c880833f41.jpeg
 tags: ai, memory-management, ai-tools, ai-agents, crewai
 
 ---
