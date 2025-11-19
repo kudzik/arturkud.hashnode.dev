@@ -1,5 +1,5 @@
 ---
-title: "CrewAI Część 3: Od Chaosu do Porządku: Jak Ustrukturyzowane Wyjścia oraz Pamię"
+title: "CrewAI Część 3: Od Chaosu do Porządku: Ustrukturyzowane Wyjścia oraz Pamięć"
 seoTitle: "Od chaosu do porządku: ustrukturyzowane wyniki sztucznej inteligencji"
 seoDescription: "Odkryj, jak ustrukturyzowane wyjścia i zaawansowane techniki pamięci w CrewAI przekształcają chaos danych w uporządkowane rozwiązania"
 datePublished: Wed Nov 19 2025 20:36:38 GMT+0000 (Coordinated Universal Time)
